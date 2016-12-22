@@ -1,0 +1,22 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "Users mock API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "standard"
+  },
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "bistre": "^1.0.1",
+    "bole": "^3.0.2",
+    "fake-json-stream": "^1.0.0",
+    "from2-string": "^1.1.0",
+    "server-router": "^4.0.2"
+  },
+  "devDependencies": {
+    "standard": "^8.6.0"
+  }
+}
